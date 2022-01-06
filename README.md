@@ -84,8 +84,6 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
 </p>
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prarathod&show_icons=true&locale=en&layout=compact" alt="prarathod" /></p>
-<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prarathod&show_icons=true&locale=en" alt="prarathod" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prarathod&" alt="prarathod" /></p>
