@@ -18,6 +18,10 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
 
 <h3 align="left">Languages and Tools:</h3>
 
+<br/>
+
+<h4 align="left">Front End</h4>
+<br/>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" margin="100"/> 
@@ -39,12 +43,29 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
   </a> 
   
   
+    
+<br/>
+<h4 align="left">Back End</h4>
+<br/>
+
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" background-color="white"/> 
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png" alt="express" width="80" height="40"/> 
   </a> 
+   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png" alt="express" width="80" height="40"/> 
+  </a>
+  
+  </a> 
+   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://react-etc.net/files/2017-08/next-js-30.png" alt="next" width="80" height="60"/> 
+  </a>https://react-etc.net/files/2017-08/next-js-30.png
+  
+  <br/>
+<h4 align="left">Database</h4>
+<br/>
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
