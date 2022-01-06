@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prajwal Rathod</h1>
-<h3 align="center">A passionate full stack developer from India <br/><br/>
+<hr/>
+<p align="center">A passionate full stack developer from India <br/><br/>
 - 💻 I’m a full stack web developer specializing in MERN stack.
 - 🌱 I love to code, build things & solve problems.
 - 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
 - ⚡ For fun, I like reading books, playing chess & cricket.
 - 🗺️ Want to know more? Check out my portfolio here <a href="#">🔗</a>.
-</h3>
+</p>
 <br/>
 
 
