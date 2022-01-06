@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer developer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/prarathod?tab=repositories] (Git Repositories)
+- 👨‍💻 All of my projects are available at <a herf="https://github.com/prarathod?tab=repositories">Git Repositories</a>
 
 - 📫 How to reach me **prajwalnrathod@gmail.com**
 
