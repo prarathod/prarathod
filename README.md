@@ -43,7 +43,7 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" background-color="white"/> 
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png" alt="express" width="40" height="40"/> 
+    <img src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png" alt="express" width="80" height="40"/> 
   </a> 
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
