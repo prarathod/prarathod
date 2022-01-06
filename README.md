@@ -53,11 +53,8 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
   </a> 
   
   
-  
-  
-  
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
+    <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="babel" width="40" height="40"/> 
   </a> 
 
 
