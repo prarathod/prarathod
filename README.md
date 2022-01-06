@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal Rathod</h1>
-<h3 align="center">A passionate full stack developer developer from India</h3>
+<h3 align="center">A passionate full stack developer developer from India <br/>
+A Computer Science graduate with a specialization in MERN stack. Has a passion for developing large-scale web applications. Is able to convert business ideas into innovative web-based solutions by providing error-free code. Hoping to grow into a seasoned developer with an exciting organization.</h3>
 
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/prarathod?tab=repositories">Git Repositories</a>
