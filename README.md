@@ -17,9 +17,6 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
 
 
 <h3 align="left">Languages and Tools:</h3>
-
-<br/>
-
 <h4 align="left">Front End</h4>
 <br/>
 <p align="left"> 
