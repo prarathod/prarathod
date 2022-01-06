@@ -61,7 +61,7 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
   </a> 
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://react-etc.net/files/2017-08/next-js-30.png" alt="next" width="80" height="60"/> 
-  </a>https://react-etc.net/files/2017-08/next-js-30.png
+  </a>
   
   <br/>
 <h4 align="left">Database</h4>
@@ -73,13 +73,13 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
   
+<br/>
+    <h4 align="left">Tools</h4>
+<br/>
   
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="babel" width="40" height="40"/> 
   </a> 
-
-
-  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
