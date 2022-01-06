@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prajwal Rathod</h1>
 <h3 align="center">A passionate full stack developer from India <br/><br/>
-A Computer Science graduate with a specialization in MERN stack. Has a passion for developing large-scale web applications. Is able to convert business ideas into innovative web-based solutions by providing error-free code. Hoping to grow into a seasoned developer with an exciting organization.</h3>
+- 💻 I’m a full stack web developer specializing in MERN stack.
+- 🌱 I love to code, build things & solve problems.
+- 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
+- ⚡ For fun, I like reading books, playing chess & cricket.
+- 🗺️ Want to know more? Check out my portfolio here <a href="#">🔗</a>.
+</h3>
 <br/>
 
 
