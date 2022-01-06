@@ -52,7 +52,7 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
     <img src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png" alt="express" width="80" height="40"/> 
   </a> 
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png" alt="express" width="80" height="40"/> 
+    <img src="https://react-etc.net/files/2017-08/next-js-30.png" alt="next" width="80" height="40"/> 
   </a>
   
   </a> 
