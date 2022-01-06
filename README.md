@@ -7,7 +7,7 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
 - 👨‍💻 All of my projects are available at <a href="https://github.com/prarathod?tab=repositories">Git Repositories</a>
 
 - 📫 How to reach me 📧 **prajwalnrathod@gmail.com** ,<a href="#">📱 8788739130</a>
-- <br/>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
