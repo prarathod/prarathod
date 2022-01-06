@@ -18,7 +18,6 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front End</h4>
-<br/>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" margin="100"/> 
@@ -43,8 +42,6 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
     
 <br/>
 <h4 align="left">Back End</h4>
-<br/>
-
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" background-color="white"/> 
   </a> 
@@ -54,15 +51,9 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://react-etc.net/files/2017-08/next-js-30.png" alt="next" width="80" height="40"/> 
   </a>
-  
-  </a> 
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://react-etc.net/files/2017-08/next-js-30.png" alt="next" width="80" height="60"/> 
-  </a>
-  
+ 
   <br/>
 <h4 align="left">Database</h4>
-<br/>
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
@@ -72,8 +63,6 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
   
 <br/>
     <h4 align="left">Tools</h4>
-<br/>
-  
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="babel" width="40" height="40"/> 
   </a> 
@@ -85,22 +74,18 @@ A Computer Science graduate with a specialization in MERN stack. Has a passion f
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
-
-
-
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> 
   </a> 
-
    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a> 
 </p>
 
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prarathod&show_icons=true&locale=en&layout=compact" alt="prarathod" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prarathod&show_icons=true&locale=en" alt="prarathod" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prarathod&" alt="prarathod" /></p>
