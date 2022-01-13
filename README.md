@@ -23,7 +23,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Front End</h4>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" margin="100"/> 
@@ -43,11 +42,6 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-  
-  
-    
-<br/>
-<h4 align="left">Back End</h4>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" background-color="white"/> 
   </a> 
@@ -57,18 +51,12 @@
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://react-etc.net/files/2017-08/next-js-30.png" alt="next" width="80" height="40"/> 
   </a>
- 
-  <br/>
-<h4 align="left">Database</h4>
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-  
-<br/>
-    <h4 align="left">Tools</h4>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="babel" width="40" height="40"/> 
   </a> 
