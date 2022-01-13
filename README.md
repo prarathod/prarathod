@@ -5,14 +5,14 @@
 - 🌱 I love to code, build things & solve problems.
 - 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
 - ⚡ For fun, I like reading books, playing chess & cricket.
-- 🗺️ Want to know more? Check out my portfolio here <a href="#">🔗</a>.
+- 🗺️ Want to know more? Check out my portfolio here <a href="https://prajwalrathod.netlify.app/">🔗</a>.
 </p>
 <br/>
 
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/prarathod?tab=repositories">Git Repositories</a>
 
-- 📫 How to reach me 📧 **prajwalnrathod@gmail.com** ,<a href="#">📱 8788739130</a>
+- 📫 How to reach me 📧 **prajwalnrathod@gmail.com** ,<a href="tel:8788739130">📱 8788739130</a>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
